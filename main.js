@@ -17,4 +17,4 @@ const PIGRECO=3.14159265359;
 console.log("Il valore di PIGRECO e'" +PIGRECO);
 PIGRECO=3.9876   
 
-// va in errore perchè le non si può riassegnare una costante
+// va in errore perchè non si può riassegnare una costante
